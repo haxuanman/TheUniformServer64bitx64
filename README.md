@@ -20,3 +20,5 @@ https://windows.php.net/downloads/releases/archives/php-7.4.5-Win32-vc15-x64.zip
 
 
 Rename core\apache2\bin\httpd.exe to core\apache2\bin\httpd_z.exe
+
+Rename core\php74\ext to \UniServerZ\core\php74\extensions
