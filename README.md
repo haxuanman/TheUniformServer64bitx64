@@ -1,4 +1,4 @@
- <h1><p>The Uniform Server 64bit x64 php apache</p></h1>
+ <h3><p>The Uniform Server 64bit x64 php apache</p></h3>
 <ol>
   <li><p>
     Download Apache x64, extract to core\apache2<br>
