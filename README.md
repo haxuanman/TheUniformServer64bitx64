@@ -15,8 +15,10 @@
  <li><p>
     Download PHP 5.6.9 x64 64bit, extract to <b>core/php56</b><br>
     PHP Version 5.6.9 x64 Visual C++ 2012 <br>
-    <a href="https://windows.php.net/downloads/releases/archives/php-7.4.5-Win32-vc15-x64.zip">Download PHP Version 5.6.9</a>
-    <a href="https://my.visualstudio.com/Downloads?pid=1452">Download Visual Studio 2012</a>
+    <ol>
+     <ul><a href="https://windows.php.net/downloads/releases/archives/php-7.4.5-Win32-vc15-x64.zip">Download PHP Version 5.6.9</a></ul>
+     <ul><a href="https://my.visualstudio.com/Downloads?pid=1452">Download Visual Studio 2012</a></ul>
+  </ol>
     </p></li>
   <li><p>
     Rename core/apache2/bin/httpd.exe to core/apache2/bin/httpd_z.exe
