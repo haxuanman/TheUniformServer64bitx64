@@ -21,10 +21,11 @@
   <li><p>
     Rename core/apache2/bin/httpd.exe to core/apache2/bin/httpd_z.exe
     </p></li>
-  <li><p>
+  <li><p><ol>
    <lu>
     Rename core/php74/ext to core/php74/extensions</lu>
    <lu>
     Rename core/php56/ext to core/php56/extensions</lu>
+   </ol>
     </p></li>
   </ol>
