@@ -9,8 +9,11 @@
   <li><p>
     Download PHP 7.4.5 x64 64bit, extract to <b>core\php74</b><br>
     PHP Version 7.4.5 x64 Visual C++ 2017<br>
-    https://windows.php.net/downloads/releases/archives/php-7.4.5-Win32-vc15-x64.zip
+   <a href="#"> PHP Version 7.4.5</a>https://windows.php.net/downloads/releases/archives/php-7.4.5-Win32-vc15-x64.zip
+     
+   https://aka.ms/vs/16/release/vc_redist.x64.exe
     </p></li>
+ https://my.visualstudio.com/Downloads?pid=1452
   <li><p>
     Rename core\apache2\bin\httpd.exe to core\apache2\bin\httpd_z.exe
     </p></li>
