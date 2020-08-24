@@ -1,6 +1,9 @@
 <h3><p>The Uniform Server 64bit x64 php apache</p></h3>
 <ol>
  <li>
+  Download and install Uniform Server version 14.0.2 14_0_2_ZeroXIV
+ </li>
+ <li>
   Download Apache x64, extract to <b>core/apache2</b><br>
   Server Version: Apache/2.4.46 (Win64) PHP/7.4.5 OpenSSL/1.1.1g<br>
   Apache Lounge VS16 Server built: Aug 2 2020 10:21:32<br>
