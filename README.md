@@ -24,7 +24,7 @@
     Download PHP 5.6.9 x64 64bit, extract to <b>core/php56</b><br>
     PHP Version 5.6.9 x64 Visual C++ 2012 <br>
     <ul>
-     <li><a href="https://windows.php.net/downloads/releases/archives/php-7.4.5-Win32-vc15-x64.zip">Download PHP Version 5.6.9</a></li>
+     <li><a href="https://windows.php.net/downloads/releases/archives/php-5.6.9-Win32-VC11-x64.zip">Download PHP Version 5.6.9</a></li>
      <li><a href="https://my.visualstudio.com/Downloads?pid=1452">Download Visual Studio 2012</a></li>
     </ul>
  </li>
